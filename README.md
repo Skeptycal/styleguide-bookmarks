@@ -10,16 +10,26 @@ A list of links / tools that can help to build your digital styleguide (or Front
 
 ## Colors
 
+## Tools
+
 * [Color Scheme Designer](http://paletton.com/)
 * [Adobe Color CC](https://color.adobe.com/)
 * [ColorExplorer](http://www.colorexplorer.com/)
 * [Color style by Google design Guidelines](http://www.google.com/design/spec/style/color.html)
 
-
 ## Typograpy
+
+## Tools
 
 * [A Visual Type Scale Calculator](http://type-scale.com/)
 * [Golden Ratio Typography Calculator](http://www.pearsonified.com/typography/)
+
+## Articles
+
+* [Choose your web fonts wisely](http://www.elliotjaystocks.com/blog/choose-your-web-fonts-wisely/)
+* [Choose the Right Google Web Font](http://blog.jimdo.com/choose-the-right-google-web-font/)
+* [Choosing web fonts: 15 expert tips](Choosing web fonts: 15 expert tips)
+
 
 ## Tools
 
@@ -44,7 +54,7 @@ A list of links / tools that can help to build your digital styleguide (or Front
 ## Books
 
 * [Front-end style guides](http://maban.co.uk/projects/front-end-style-guides/) by Anna Debenham
-* The smashing book #4, New perspectives in web design - "Design Document" p68
+* [The smashing book #4](https://shop.smashingmagazine.com/smashing-book-4-ebooks.html), New perspectives in web design - "Design Document" p68
 
 ## Showcases
 
@@ -57,3 +67,7 @@ A list of links / tools that can help to build your digital styleguide (or Front
 * [HCA](http://hcastyles.com/)
 * [Starbucks](http://www.starbucks.com/static/reference/styleguide/)
 * [Salesforce](http://sfdc-styleguide.herokuapp.com/)
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
